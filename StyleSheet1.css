@@ -1,0 +1,26 @@
+﻿body {
+    text-align: center;
+    margin-right: 20cm;
+}
+
+h1 {
+    color: white;
+}
+
+#Sec1 {
+    position: absolute;
+    color: aqua;
+    bottom: 0;
+    opacity: 0.83;
+    background: linear-gradient(#60ebeb 0%, #27ae60 100%);
+    display: table;
+    height: 100%;
+    width: 100%;
+    z-index: 9;
+}
+
+h1 {
+    background-color: #2b7a78;
+    margin-left: 100px;
+    margin-right: 160px;
+}
